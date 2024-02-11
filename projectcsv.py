@@ -15,7 +15,7 @@ if "student_index" not in st.session_state:
     st.session_state["student_index"] = 0
 
 # Main code
-st.title("ENTER STUDENTS MARKS RECORDS 📒")
+st.title("ENTER STUDENT MARKS RECORDS 📒")
 school = st.text_input("Enter school Name:")
 st.session_state["student_count"] = st.number_input("Enter no of students:", step=1, value=1)
 
