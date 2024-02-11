@@ -1,7 +1,17 @@
 📝 Student Marks Tracker
+
 • A Python program designed to manage and organize students’ marks,utilizing Microsoft Excel for data storage and creating excel file.
+
+The "Student Marks Tracker" utilizes Python and Pandas to manage and organize students' marks. 
+It leverages Microsoft Excel for data storage, allowing users to input student information such as roll numbers, names, and marks.
+Python's simplicity and Pandas' data manipulation capabilities streamline the process, resulting in a user-friendly application for efficient tracking and organization of student mark
+
+• Technology: MS Excel, Python, Pandas
+
 1. Interface Image
-![image](https://github.com/DataMiiner/student_mark_tracker/assets/149947298/36e30f48-6c7f-4ba4-9eb6-cecd6d74ff8a)
+
+![image](https://github.com/DataMiiner/student_mark_tracker/assets/149947298/a34453d4-9af3-418e-ae57-8c66a1aa5bd1)
+
 
 2. Enter Data
 
