@@ -1,4 +1,4 @@
-📝 Student Marks Tracker
+<h1>📝 Student Marks Tracker</h1>
 
 link: https://student-mark-tracker-by-datamiiner.streamlit.app/
 
@@ -10,21 +10,21 @@ Python's simplicity and Pandas' data manipulation capabilities streamline the pr
 
 • Technology: MS Excel, Python, Pandas
 
-1. Interface Image
+<h3>1. Interface Image</h3>
 
-![image](https://github.com/DataMiiner/student_mark_tracker/assets/149947298/a34453d4-9af3-418e-ae57-8c66a1aa5bd1)
+ ![image](https://github.com/DataMiiner/student_mark_tracker/assets/149947298/a34453d4-9af3-418e-ae57-8c66a1aa5bd1)
 
 
-2. Enter Data
+<h3>2. Enter Data</h3>
 
-![image](https://github.com/DataMiiner/student_mark_tracker/assets/149947298/e25f7832-79c1-4db4-b468-0fda18543363)
+ ![image](https://github.com/DataMiiner/student_mark_tracker/assets/149947298/e25f7832-79c1-4db4-b468-0fda18543363)
 
-----------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/DataMiiner/student_mark_tracker/assets/149947298/36934687-1ea0-4c55-a3ec-70971652d177)
 
-3. Excel
+ ![image](https://github.com/DataMiiner/student_mark_tracker/assets/149947298/36934687-1ea0-4c55-a3ec-70971652d177)
 
-![image](https://github.com/DataMiiner/student_mark_tracker/assets/149947298/f3d06bf8-4d37-4db6-9683-c9c3c88c0133)
+<h3>3. Excel</h3>
+
+ ![image](https://github.com/DataMiiner/student_mark_tracker/assets/149947298/f3d06bf8-4d37-4db6-9683-c9c3c88c0133)
 
 
